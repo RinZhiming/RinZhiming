@@ -1,12 +1,12 @@
-# Welcome to My Profile
+# Welcome, My Love
 
-![header](https://user-images.githubusercontent.com/your-header-image-link)
+![header](https://i.pinimg.com/1200x/5a/cf/9c/5acf9c7c99e20edcca6723881c0bc5e4.jpg)
 
-## 📚 RinZhiming
+## 📚 Zhiming
 
 > "The only true wisdom is in knowing you know nothing." - Socrates
 
-Hello! I'm RinZhiming, a developer with a passion for classical literature, history, and the pursuit of knowledge. Here you'll find some of my projects and contributions to the open-source community.
+Hello! I'm Rin, a developer with a passion for classical literature, Music, Art, history, and the pursuit of knowledge. Here you'll find some of my projects and contributions to the open-source community.
 
 ### About Me
 
@@ -30,4 +30,4 @@ Hello! I'm RinZhiming, a developer with a passion for classical literature, hist
 
 ---
 
-![footer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Flibrarytickets%2F645581435743371265%2Fsome-dark-academia-headers&psig=AOvVaw0pomaK6slQ_AUtRxd7Voqv&ust=1734709300673000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDahe-VtIoDFQAAAAAdAAAAABAE)
+![footer](https://i.pinimg.com/1200x/6f/9b/66/6f9b66e642c396a04acf1d6fd0d3920e.jpg)
