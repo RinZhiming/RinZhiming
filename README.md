@@ -30,4 +30,4 @@ Hello! I'm Rin, a developer with a passion for classical literature, Music, Art,
 
 ---
 
-![footer](https://i.pinimg.com/1200x/6f/9b/66/6f9b66e642c396a04acf1d6fd0d3920e.jpg)
+![divider](https://i.pinimg.com/1200x/6f/9b/66/6f9b66e642c396a04acf1d6fd0d3920e.jpg)
