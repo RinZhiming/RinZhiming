@@ -18,11 +18,11 @@ Hello! I'm Rin, a developer with a passion for classical literature, Music, Art,
 
 ## ⭐ GitHub Stats
 
-![RinZhiming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RinZhiming&show_icons=true&hide=contribs,prs&theme=dark)
+![RinZhiming's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RinZhiming&show_icons=true&hide=contribs,prs&theme=kacho_ga)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RinZhiming&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RinZhiming&layout=compact&theme=kacho_ga)
 
 ---
 
